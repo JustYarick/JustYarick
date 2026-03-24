@@ -21,6 +21,7 @@ I’m passionate about infrastructure automation, distributed systems, and impro
 
 ## Contact
 
-- Discord: https://discord.gg/1yarick  
-- LinkedIn: https://www.linkedin.com/in/%D1%8F%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2-%D0%B4%D0%B0%D0%B2%D0%BA%D0%BE%D0%B2-94aab2333/  
+- Discord: https://discord.gg/1yarick
 - Email: yaroslav.davkov@gmail.com
+- TG: https://t.me/JustYarick
+- LinkedIn: https://www.linkedin.com/in/%D1%8F%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2-%D0%B4%D0%B0%D0%B2%D0%BA%D0%BE%D0%B2-94aab2333/  
